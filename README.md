@@ -1,2 +1,2 @@
 # DSA
-my daily GFG questions
+my daily GFG and leetcode questions
