@@ -1,4 +1,4 @@
-<h2><a href="https://www.geeksforgeeks.org/problems/c-input-output2432/1?page=1&category=CPP&sortBy=submissions">C++ Input / Output</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two&nbsp;integers A and B. Your task is to&nbsp;return their product.</span></p>
+<h2><a href="https://www.geeksforgeeks.org/problems/c-input-output2432/1">C++ Input / Output</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given two&nbsp;integers A and B. Your task is to&nbsp;return their product.</span></p>
 
 <p>&nbsp;</p>
 
